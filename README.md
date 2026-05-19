@@ -3,7 +3,7 @@
 A full-stack Shopify application designed to increase conversion rates by keeping the 'Add to Cart' button visible as users scroll through product pages.
 
 ## 📺 Video Walkthrough
-https://github.com/user-attachments/assets/247daf88-a4b9-46ab-8a05-9b8b938ce5c2
+https://github.com/user-attachments/assets/97dcbf5b-c73e-4f29-99ff-74d26678b7bf
 
 ## 📸 Screenshots
 ### Main Dashboard (Subscribed) View
